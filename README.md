@@ -5,3 +5,5 @@
 > $ npm install 
 <br />
 > $ npm start
+<br />
+localhost:8989
